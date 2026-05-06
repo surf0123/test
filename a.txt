@@ -1,2 +1,5 @@
 로컬의 저장소와 원격 저장소를 연결 	
 git remote add origin https://github.com/***/test.git
+원격 저장소의 최신 코드 가져오기	
+git pull origin main
+
